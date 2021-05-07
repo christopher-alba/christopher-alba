@@ -9,6 +9,8 @@
 - 😄 Pronouns: Him/His/He 
 - ⚡ Fun fact: I study Computer Systems Engineering (honours) at UoA AND web development in my spare time!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopher-alba)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **christopher-alba/christopher-alba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
