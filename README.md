@@ -11,7 +11,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopher-alba)](https://github.com/anuraghazra/github-readme-stats)
 
-### To learn more about me, visit: https://christopher-alba.github.io/christopheralba/#/
+### To learn more about me, visit: https://christopher-alba.com
 <!--
 **christopher-alba/christopher-alba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
