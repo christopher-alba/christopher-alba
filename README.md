@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- - 🔭 I’m currently working on an e commerce website and a chess game! -->
-- 🌱 I’m currently learning LOTS OF STUFF at The University of Auckland
+- 🌱 I’m currently learning LOTS OF STUFF at Turners Automotive Group as a Graduate Software Engineer
 - 👯 I’m looking to collaborate on awesome projects!
 - 🤔 I’m looking for help with how to be a better software engineer
 - 💬 Ask me about ABSOLUTELY ANYTHING!
