@@ -7,7 +7,7 @@
 - 💬 Ask me about ABSOLUTELY ANYTHING!
 - 📫 How to reach me: chris.alba.dev@gmail.com 
 - 😄 Pronouns: Him/His/He 
-- ⚡ Fun fact: I study Computer Systems Engineering (honours) at UoA AND web development in my spare time!
+- ⚡ Fun fact: I studied Computer Systems Engineering (honours) at UoA AND web development in my spare time!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christopher-alba)](https://github.com/anuraghazra/github-readme-stats)
 
